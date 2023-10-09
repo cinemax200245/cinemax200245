@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anish De
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Anish De
 ================================================================================================================================
 
 Passionate about the intricacies of data science and machine learning, I am a dynamic professional continually honing my skills in the realms of predictive analytics and deep learning. With an insatiable curiosity for unraveling complex patterns, I thrive on transforming raw data into actionable insights, fueling a relentless commitment to staying at the forefront of technological advancements. My journey is marked by a persistent pursuit of excellence in reshaping the landscape of data-driven innovation.
