@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Passionate about the intricacies of data science and machine learning, I am a dynamic professional continually honing my skills in the realms of predictive analytics and deep learning. With an insatiable curiosity for unraveling complex patterns, I thrive on transforming raw data into actionable insights, fueling a relentless commitment to staying at the forefront of technological advancements. My journey is marked by a persistent pursuit of excellence in reshaping the landscape of data-driven innovation.
 
 * 🌍  I'm based in Kolkata
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/anish-de-7222121b3/)
+* 🖥️  See my LinkedIn at [LinkedIn](http://www.linkedin.com/in/anish-de-7222121b3/)
+* 🌐  See my Portfolio at [Portfolio](https://anish200245.carrd.co/)
 * ✉️  You can contact me at [anish200245@gmail.com](mailto:anish200245@gmail.com)
 * 🧠  I'm learning Reinforcement Learning
 
